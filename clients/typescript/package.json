@@ -1,0 +1,15 @@
+{
+  "name": "goa-example",
+  "version": "",
+  "description": "OpenAPI client for goa-example",
+  "author": "OpenAPI-Generator",
+  "main": "./dist/index.js",
+  "typings": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  }
+}

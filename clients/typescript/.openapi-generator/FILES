@@ -1,0 +1,13 @@
+.gitignore
+.npmignore
+.openapi-generator-ignore
+README.md
+package.json
+src/apis/IncidentsApi.ts
+src/apis/index.ts
+src/index.ts
+src/models/IncidentsCreateRequestBody.ts
+src/models/IncidentsCreateResponseBody.ts
+src/models/index.ts
+src/runtime.ts
+tsconfig.json
